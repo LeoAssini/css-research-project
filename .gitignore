@@ -1,0 +1,22 @@
+# Claude
+.claude/
+claude.md
+
+# Reference papers and notes
+articles/
+
+# Embeddings: recreated by the notebook
+data/w2v_googlenews_300_unitnorm.kv
+data/w2v_googlenews_300_unitnorm.kv.vectors.npy
+
+# Guardian article text: recreated by the notebook from article_index.csv
+data/guardian/articles.jsonl
+data/guardian/tokens.jsonl
+data/guardian/cache/
+data/guardian/hand_check/articles_to_read.md
+
+# Python and macOS
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

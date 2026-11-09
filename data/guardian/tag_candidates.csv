@@ -1,0 +1,242 @@
+group,query,tag_id,tag_title,section,n_articles
+ordeal,murder,uk/massereene-murders,Massereene murders,UK news,19
+ordeal,murder,world/dewani-murder-case,Dewani murder case,World news,75
+ordeal,murder,uk/suffolkmurders,Suffolk murders,UK news,142
+ordeal,murder,uk/soham,Soham murders,UK news,421
+ordeal,murder,uk/jilldando,Jill Dando murder,UK news,167
+ordeal,murder,uk/bulger,James Bulger murder,UK news,254
+ordeal,murder,world/toronto-van-incident,Toronto van murders,World news,25
+ordeal,murder,australia-news/amber-haigh-murder-trial,Amber Haigh murder trial,Australia news,32
+ordeal,murder,world/peterfalconio,Peter Falconio murder case,World news,99
+ordeal,murder,uk/tonymartin,Tony Martin murder case,UK news,96
+ordeal,murder,australia-news/missing-and-murdered-indigenous-women-and-children,Missing and murdered Indigenous women and children,Australia news,16
+ordeal,massacre,world/srebrenica-massacre,Srebrenica massacre,World news,129
+ordeal,massacre,world/munich-massacre,Munich massacre,World news,43
+ordeal,massacre,australia-news/port-arthur-massacre,Port Arthur massacre,Australia news,32
+ordeal,massacre,us-news/tulsa-race-massacre,Tulsa race massacre,US news,25
+ordeal,genocide,world/armenian-genocide,Armenian genocide,World news,129
+ordeal,war,law/war-crimes,War crimes,Law,2678
+ordeal,war,world/vietnam-war,Vietnam war,World news,148
+ordeal,war,world/war-logs,The war logs,World news,126
+ordeal,war,total-war-rome-2/total-war-rome-2,Total War Rome 2,Total War ROME II,0
+ordeal,war,australia-news/frontier-wars,Frontier wars,Australia news,77
+ordeal,war,world/iraq-war-logs,Iraq: the war logs,World news,49
+ordeal,war,world/israel-hamas-war,Israel-Gaza war,World news,6054
+ordeal,war,world/the-war-logs,Afghanistan: the war logs,World news,94
+ordeal,war,australia-news/australian-war-memorial,Australian War Memorial,Australia news,51
+ordeal,war,politics/stop-the-war-coalition,Stop the War coalition,Politics,24
+ordeal,war,technology/smartphone-patent-wars,Smartphone patent wars,Technology,150
+ordeal,war,world/firstworldwar,First world war,World news,1592
+ordeal,war,us-news/american-civil-war,American civil war,US news,243
+ordeal,war,uk-news/english-civil-war,English civil war,UK news,35
+ordeal,war,world/secondworldwar,Second world war,World news,5444
+ordeal,war,world/us-israel-war-on-iran,US-Israel war on Iran,World news,2134
+ordeal,assault,society/rape,Rape and sexual assault,Society,4795
+ordeal,assault,us-news/stanford-sexual-assault-case,Stanford sexual assault case,US news,45
+ordeal,killing,world/haditha-killings,Haditha killings,World news,39
+ordeal,killing,us-news/gilgo-beach-serial-killings,Gilgo Beach serial killings,US news,13
+ordeal,bombing,uk/claudy-bombing,Claudy bombing,UK news,11
+ordeal,bombing,us-news/boston-marathon-bombing,Boston Marathon bombing,US news,300
+ordeal,bombing,us-news/austin-bombings,Austin bombings,US news,5
+ordeal,bombing,uk/omagh,Omagh bombing,UK news,365
+ordeal,bombing,uk-news/birmingham-pub-bombings,Birmingham pub bombings,UK news,68
+ordeal,bombing,us-news/new-york-subway-bombing,New York subway bombing,US news,9
+ordeal,bombing,uk/lockerbie,Lockerbie plane bombing,UK news,588
+ordeal,bombing,us-news/new-york-and-new-jersey-bombings,New York and New Jersey bombings,US news,28
+ordeal,stabbing,australia-news/sydney-stabbing-attack,Sydney stabbing attack,Australia news,9
+ordeal,stabbing,australia-news/bondi-junction-stabbings,Bondi Junction stabbings,Australia news,68
+natural,earthquake,world/earthquakes,Earthquakes,World news,1542
+natural,earthquake,world/china-earthquake,China earthquake,World news,135
+natural,earthquake,world/central-italy-earthquake,Italy earthquake,World news,26
+natural,earthquake,world/morocco-earthquake-2023,Morocco earthquake 2023,World news,18
+natural,earthquake,world/nepal-earthquake-2015,Nepal earthquake 2015,World news,130
+natural,earthquake,world/new-zealand-earthquake,New Zealand earthquake 2016,World news,12
+natural,earthquake,world/turkeyquakes,Turkey earthquakes 1999,World news,62
+natural,earthquake,world/turkey-syria-earthquake-2023,Turkey-Syria earthquake 2023,World news,113
+natural,earthquake,global-development/nepal-earthquake-one-year-on,Nepal earthquake: one year on,Global development,7
+natural,epidemic,world/epidemics,Epidemics,World news,786
+natural,plague,society/bubonic-plague,Bubonic plague,Society,33
+natural,storm,uk-news/storm-desmond,Storm Desmond,UK news,69
+natural,storm,uk-news/storm-frank,Storm Frank,UK news,23
+natural,storm,us-news/tropical-storm-hilary,Tropical Storm Hilary,US news,9
+natural,hurricane,world/hurricanes,Hurricanes,World news,1312
+natural,hurricane,world/hurricane-otto,Hurricane Otto,World news,3
+natural,hurricane,us-news/hurricane-katrina,Hurricane Katrina,US news,425
+natural,hurricane,us-news/hurricane-irene,Hurricane Irene,US news,51
+natural,hurricane,us-news/hurricane-helene,Hurricane Helene,US news,120
+natural,hurricane,us-news/hurricane-idalia,Hurricane Idalia,US news,25
+natural,hurricane,world/hurricane-jose,Hurricane Jose,World news,12
+natural,hurricane,world/hurricane-dorian,Hurricane Dorian,World news,59
+natural,hurricane,world/hurricane-florence,Hurricane Florence,World news,42
+natural,hurricane,world/hurricane-fiona,Hurricane Fiona,World news,10
+natural,hurricane,world/hurricane-maria,Hurricane Maria,World news,103
+natural,hurricane,world/hurricane-matthew,Hurricane Matthew,World news,36
+natural,hurricane,world/hurricane-melissa,Hurricane Melissa,World news,33
+natural,hurricane,world/hurricane-irma,Hurricane Irma,World news,134
+natural,hurricane,world/hurricane-isaias,Hurricane Isaias,World news,11
+natural,hurricane,us-news/hurricane-sandy,Hurricane Sandy,US news,294
+natural,hurricane,us-news/hurricane-laura,Hurricane Laura,US news,11
+natural,hurricane,us-news/hurricane-harvey,Hurricane Harvey,US news,117
+natural,hurricane,us-news/hurricanegustav,Hurricane Gustav,US news,73
+natural,hurricane,us-news/hurricane-ian,Hurricane Ian,US news,41
+natural,hurricane,us-news/hurricane-milton,Hurricane Milton,US news,58
+natural,hurricane,us-news/hurricane-michael,Hurricane Michael,US news,26
+natural,hurricane,us-news/hurricane-isaac,Hurricane Isaac,US news,44
+natural,flood,environment/flooding,Flooding,Environment,4580
+natural,flood,world/pakistan-flood,Pakistan floods,World news,56
+natural,flood,world/libya-flood-2023,Libya floods 2023,World news,26
+natural,flood,world/nepal-tibet-flood-disaster,Nepal-Tibet flood disaster,World news,82
+natural,flood,uk-news/uk-floods-2014,UK floods 2014,UK news,4
+natural,flood,us-news/texas-floods-2025,Texas floods 2025,US news,53
+natural,flood,australia-news/australia-east-coast-floods-2022,NSW and Queensland floods 2022,Australia news,250
+natural,flood,australia-news/north-queensland-floods-2023,North Queensland floods 2023,Australia news,26
+natural,flood,australia-news/australia-east-coast-floods-2021,Australia east coast floods 2021,Australia news,39
+natural,wildfire,world/wildfires,Wildfires,World news,2211
+natural,wildfire,us-news/us-wildfires,US wildfires,US news,174
+natural,wildfire,world/canada-wildfires,Canada wildfires,World news,61
+natural,wildfire,us-news/california-wildfires,California wildfires,US news,262
+natural,wildfire,us-news/colorado-wildfires,Colorado wildfires 2012,US news,22
+natural,tsunami,world/tsunamis,Tsunamis,World news,291
+natural,tsunami,world/indonesia-tsunami,Indonesia tsunami September 2018,World news,18
+natural,tsunami,world/indonesia-tsunami-december-2018,Indonesia tsunami December 2018,World news,11
+natural,tsunami,world/tsunami2004,Indian Ocean tsunami 2004,World news,633
+natural,avalanche,world/avalanches,Avalanches,World news,175
+control,orchestra,music/philharmonia-orchestra,The Philharmonia Orchestra,Music,363
+control,orchestra,music/concertgebouw-orchestra,Concertgebouw Orchestra,Music,57
+control,orchestra,music/halle-orchestra,Hallé Orchestra,Music,209
+control,orchestra,music/chineke--orchestra,Chineke! Orchestra,Music,28
+control,orchestra,music/aurora-orchestra,Aurora Orchestra,Music,46
+control,orchestra,music/london-symphony-orchestra,London Symphony Orchestra,Music,633
+control,orchestra,music/bournemouth-symphony-orchestra,Bournemouth Symphony Orchestra,Music,113
+control,orchestra,music/scottish-chamber-orchestra,Scottish Chamber Orchestra,Music,72
+control,orchestra,music/unknown-mortal-orchestra,Unknown Mortal Orchestra,Music,19
+control,orchestra,music/london-philharmonic-orchestra,London Philharmonic Orchestra,Music,436
+control,orchestra,music/melbourne-symphony-orchestra,Melbourne Symphony Orchestra,Music,14
+control,orchestra,music/liverpool-philharmonic-orchestra,Royal Liverpool Philharmonic Orchestra,Music,129
+control,orchestra,music/bbc-symphony-orchestra,BBC Symphony Orchestra,Music,520
+control,orchestra,music/royal-philharmonic-orchestra,Royal Philharmonic Orchestra,Music,59
+control,orchestra,music/australian-chamber-orchestra,Australian Chamber Orchestra,Music,63
+control,orchestra,music/multi-story-orchestra,Multi-Story Orchestra,Music,9
+control,orchestra,music/bbc-philharmonic-orchestra,BBC Philharmonic Orchestra,Music,163
+control,orchestra,music/orchestra-of-the-age-of-enlightenment,Orchestra of the Age of Enlightenment,Music,168
+control,orchestra,extra/royal-liverpool-philharmonic-orchestra,Royal Liverpool Philharmonic Orchestra,Extra,2
+control,orchestra,music/bbc-scottish-symphony-orchestra,BBC Scottish Symphony Orchestra,Music,220
+control,orchestra,music/scottish-national-jazz-orchestra,Scottish National Jazz Orchestra,Music,12
+control,orchestra,music/city-of-birmingham-symphony-orchestra,City of Birmingham Symphony Orchestra,Music,294
+control,orchestra,music/bbc-national-orchestra-of-wales,BBC National Orchestra of Wales,Music,214
+control,orchestra,discover-culture/global-orchestra-earth-hour,Global orchestra Earth Hour,Discover Culture,0
+control,football,katine/football,Football,Katine,43
+control,football,football/football,Football,Football,218037
+control,football,sport/college-football,College football,Sport,385
+control,football,football/football-index,Football Index,Football,12
+control,football,football/laws-of-football,Laws of football,Football,588
+control,football,football/football-agents,Football agents,Football,46
+control,football,football/footballinireland,Football in Ireland,Football,70
+control,football,football/womensfootball,Women's football,Football,7920
+control,football,sport/fantasy-football,Fantasy Football,Sport,28
+control,football,football/football-league,Football League,Football,1517
+control,football,fantasyfootball,Fantasy Football,Football,0
+control,football,football/footballfanzines,Football fanzines,Football,90
+control,football,sport/flag-football,Flag football,Sport,18
+control,football,football/football-tactics,Football tactics,Football,1087
+control,football,sport/football-federation-australia,Football Australia,Sport,289
+control,football,football/botswana-football,Botswana football team,Football,1
+control,football,football/ghana,Ghana football team,Football,285
+control,football,football/madagascar-football-team,Madagascar football team,Football,4
+control,football,football/football-ticket-prices,Football ticket prices,Football,76
+control,football,football/haiti-football-team,Haiti football team,Football,24
+control,football,football/europeanfootball,European club football,Football,9299
+control,football,football/cameroon,Cameroon football team,Football,175
+control,football,football/uganda-football-team,Uganda football team,Football,4
+control,football,football/egypt,Egypt football team,Football,189
+control,football,football/kenya,Kenya football team,Football,3
+control,football,football/guinea-football-team,Guinea football team,Football,9
+control,football,football/morocco,Morocco football team,Football,193
+control,football,football/tunisia,Tunisia football team,Football,94
+control,football,sport/olympics-2012-football,Olympics 2012: football,Sport,152
+control,football,football/senegal,Senegal football team,Football,247
+control,football,football/namibia-football-team,Namibia football team,Football,2
+control,football,football/tanzania-football-team,Tanzania football team,Football,5
+control,football,sport/olympicsfootball,Olympics 2008: Football,Sport,17
+control,football,football/algeria,Algeria football team,Football,194
+control,football,sport/australian-rules-football,Australian rules football,Sport,2122
+control,football,football/guardian-footballer-of-the-year,Guardian Footballer of the Year,Football,9
+control,football,football/angola,Angola football team,Football,16
+control,football,football/zimbabwe,Zimbabwe football team,Football,9
+control,football,football/syria-football-team,Syria football team,Football,13
+control,football,sport/paralympics-2012-football,Paralympics 2012: football,Sport,15
+control,football,football/burundi-football-team,Burundi football team,Football,1
+control,football,football/gambia-football-team,Gambia football team,Football,1
+control,football,football/mauritania-football-team,Mauritania football team,Football,2
+control,football,sport/rugby-football-union,Rugby Football Union,Sport,749
+control,football,football/mali,Mali football team,Football,57
+control,football,football/nigeria-football-team,Nigeria football team,Football,259
+control,tennis,sport/tennis,Tennis,Sport,17476
+control,tennis,sport/table-tennis,Table tennis,Sport,27
+control,tennis,sport/olympics-2012-tennis,Olympics 2012: tennis,Sport,45
+control,tennis,travel/tennisholidays,Tennis holidays,Travel,7
+control,tennis,sport/us-open-tennis-2017,US Open Tennis 2017,Sport,62
+control,tennis,sport/us-open-tennis-2022,US Open Tennis 2022,Sport,97
+control,tennis,sport/paralympics-2012-tennis,Paralympics 2012: tennis,Sport,14
+control,tennis,sport/olympicstennis,Olympics 2008: Tennis,Sport,24
+control,tennis,sport/usopentennis,US Open tennis,Sport,1568
+control,tennis,sport/us-open-tennis-2012,US Open Tennis 2012,Sport,82
+control,tennis,sport/us-open-tennis-2020,US Open Tennis 2020,Sport,44
+control,tennis,sport/us-open-tennis-2025,US Open Tennis 2025,Sport,96
+control,tennis,sport/us-open-tennis-2014,US Open Tennis 2014,Sport,76
+control,tennis,sport/us-open-tennis-2021,US Open Tennis 2021,Sport,94
+control,tennis,sport/paralympics-2012-table-tennis,Paralympics 2012: table tennis,Sport,3
+control,tennis,sport/us-open-tennis-2010,US Open Tennis 2010,Sport,54
+control,tennis,sport/olympics-2012-table-tennis,Olympics 2012: table tennis,Sport,26
+control,tennis,sport/us-open-tennis-2019,US Open Tennis 2019,Sport,74
+control,tennis,sport/us-open-tennis-2009,US Open Tennis 2009,Sport,36
+control,tennis,sport/us-open-tennis-2016,US Open Tennis 2016,Sport,65
+control,tennis,sport/us-open-tennis-2023,US Open Tennis 2023,Sport,67
+control,tennis,sport/us-open-tennis-2024,US Open Tennis 2024,Sport,64
+control,tennis,sport/us-open-tennis-2013,US Open tennis 2013,Sport,101
+control,tennis,sport/us-open-tennis-2018,US Open Tennis 2018,Sport,84
+control,tennis,sport/us-open-tennis-2026,US Open Tennis 2026,Sport,77
+control,tennis,sport/olympicstabletennis,Olympics 2008: Table tennis,Sport,8
+control,tennis,sport/usopentennis2004,US Open Tennis 2004,Sport,36
+control,tennis,sport/usopentennis2006,US Open Tennis 2006,Sport,39
+control,tennis,sport/usopentennis2005,US Open Tennis 2005,Sport,39
+control,tennis,sport/usopentennis2001,US Open Tennis 2001,Sport,50
+control,tennis,sport/usopentennis2003,US Open Tennis 2003,Sport,34
+control,tennis,sport/usopentennis2007,US Open Tennis 2007,Sport,40
+control,tennis,sport/usopentennis2002,US Open Tennis 2002,Sport,35
+control,economy,business/australia-economy,Australian economy,Business,7405
+control,economy,business/chinese-economy,Chinese economy,Business,819
+control,economy,environment/green-economy,Green economy,Environment,1804
+control,economy,business/global-economy,Global economy,Business,6820
+control,economy,technology/sharing-economy,Sharing economy,Technology,71
+control,economy,business/the-gig-economy,Gig economy,Business,791
+control,economy,business/useconomy,US economy,Business,8285
+control,economy,technology/digital-economy-act,Digital Economy Act,Technology,145
+control,inflation,business/inflation,Inflation,Business,4799
+control,fashion,fashion/fashion,Fashion,Fashion,30340
+control,fashion,fashion/vintage-fashion,Vintage fashion,Fashion,203
+control,fashion,fashion/australia-fashion,Australian fashion,Fashion,277
+control,fashion,fashion/fashion-photography,Fashion photography,Fashion,71
+control,fashion,fashion/fashion-awards,Fashion Awards,Fashion,48
+control,fashion,fashion/festival-fashion,Festival fashion,Fashion,52
+control,fashion,fashion/fashion-industry,Fashion industry,Fashion,1363
+control,fashion,fashion/fashion-weeks,Fashion weeks,Fashion,2671
+control,fashion,fashion/mens-fashion,Men's fashion,Fashion,2294
+control,fashion,fashion/sustainable-fashion,Sustainable fashion,Fashion,234
+control,fashion,lifeandstyle/fashion,Fashion,Life and style,22
+control,fashion,sustainable-business/fashion,Fashion,Guardian Sustainable Business,123
+control,fashion,fashion/london-fashion-week,London fashion week,Fashion,879
+control,fashion,fashion/australia-fashion-week,Australian fashion week,Fashion,31
+control,fashion,fashion/milan-fashion-week,Milan fashion week,Fashion,449
+control,fashion,fashion/paris-fashion-week,Paris fashion week,Fashion,775
+control,fashion,fashion/british-fashion-council,British Fashion Council,Fashion,48
+control,fashion,fashion/new-york-fashion-week,New York fashion week,Fashion,458
+control,recipe,cookingforkids/recipe-videos,Recipe videos,Cooking for kids,0
+control,recipe,food/student-recipes,Student recipes,Food,19
+control,recipe,cookingforkids/recipedownloads,Recipe downloads,Cooking for kids,0
+control,recipe,food/one-pot-recipes,One-pot recipes,Food,22
+control,recipe,great-british-picnics/picnic-perfect-recipes,Picnic perfect recipes,Great British picnics,0
+control,recipe,lifeandstyle/mary-ellen-mctague-recipes,Mary-Ellen McTague recipes,Life and style,13
+control,restaurant,travel/restaurants,Restaurants,Travel,3174
+control,restaurant,food/restaurants,Restaurants,Food,6082
+control,restaurant,business/restaurantgroup,Restaurant Group,Business,125

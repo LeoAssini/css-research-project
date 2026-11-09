@@ -1,0 +1,363 @@
+group,query,tag_id,tag_title,section
+ordeal,murder,uk/massereene-murders,Massereene murders,UK news
+ordeal,murder,world/dewani-murder-case,Dewani murder case,World news
+ordeal,murder,culture/making-a-murderer,Making a Murderer,Culture
+ordeal,murder,uk/suffolkmurders,Suffolk murders,UK news
+ordeal,murder,uk/soham,Soham murders,UK news
+ordeal,murder,film/dial-m-for-murder,Dial M for Murder,Film
+ordeal,murder,uk/jilldando,Jill Dando murder,UK news
+ordeal,murder,film/murder-on-the-orient-express,Murder on the Orient Express,Film
+ordeal,murder,uk/bulger,James Bulger murder,UK news
+ordeal,murder,world/toronto-van-incident,Toronto van murders,World news
+ordeal,murder,australia-news/amber-haigh-murder-trial,Amber Haigh murder trial,Australia news
+ordeal,murder,world/peterfalconio,Peter Falconio murder case,World news
+ordeal,murder,uk/tonymartin,Tony Martin murder case,UK news
+ordeal,murder,australia-news/missing-and-murdered-indigenous-women-and-children,Missing and murdered Indigenous women and children,Australia news
+ordeal,murder,how-to-solve-a-murder-a-detectives-dilemma/amazon-bosch,Amazon Bosch,How to solve a murder: a detective's dilemma
+ordeal,massacre,world/srebrenica-massacre,Srebrenica massacre,World news
+ordeal,massacre,world/munich-massacre,Munich massacre,World news
+ordeal,massacre,uk-news/peterloo-massacre,Peterloo massacre,UK news
+ordeal,massacre,australia-news/port-arthur-massacre,Port Arthur massacre,Australia news
+ordeal,massacre,us-news/tulsa-race-massacre,Tulsa race massacre,US news
+ordeal,massacre,film/the-texas-chainsaw-massacre,The Texas Chainsaw Massacre,Film
+ordeal,genocide,world/armenian-genocide,Armenian genocide,World news
+ordeal,war,technology/war-reporting,War reporting,Media
+ordeal,war,stage/war-horse,War Horse,Stage
+ordeal,war,law/war-crimes,War crimes,Law
+ordeal,war,books/childrens-war,War (children and teens),Books
+ordeal,war,world/vietnam-war,Vietnam war,World news
+ordeal,war,film/cold-war,Cold War,Film
+ordeal,war,world/war-logs,The war logs,World news
+ordeal,war,total-war-rome-2/total-war-rome-2,Total War Rome 2,Total War ROME II
+ordeal,war,film/war-machine,War Machine,Film
+ordeal,war,film/war-dogs,War Dogs,Film
+ordeal,war,film/war-horse,War Horse,Film
+ordeal,war,film/war-films,War films,Film
+ordeal,war,world/cold-war,Cold war,World news
+ordeal,war,music/the-war-on-drugs,The War on Drugs,Music
+ordeal,war,tv-and-radio/war-and-peace,War and Peace,Television & radio
+ordeal,war,film/starwars,Star Wars,Film
+ordeal,war,film/war-of-the-worlds,War of the Worlds,Film
+ordeal,war,film/the-invisible-war,The Invisible War,Film
+ordeal,war,music/the-civil-wars,The Civil Wars,Music
+ordeal,war,australia-news/frontier-wars,Frontier wars,Australia news
+ordeal,war,film/dirty-wars,Dirty Wars,Film
+ordeal,war,culture/imperial-war-museums,Imperial War Museums,Culture
+ordeal,war,world/iraq-war-logs,Iraq: the war logs,World news
+ordeal,war,uk/iraq-war-inquiry,Iraq war inquiry,UK news
+ordeal,war,film/world-war-z,World War Z,Film
+ordeal,war,world/israel-hamas-war,Israel-Gaza war,World news
+ordeal,war,film/avengers--infinity-war,Avengers: Infinity War,Film
+ordeal,war,music/cold-war-kids,Cold War Kids,Music
+ordeal,war,world/the-war-logs,Afghanistan: the war logs,World news
+ordeal,war,film/punisher-war-zone,Punisher: War Zone,Film
+ordeal,war,australia-news/australian-war-memorial,Australian War Memorial,Australia news
+ordeal,war,film/captain-america-civil-war,Captain America: Civil War,Film
+ordeal,war,politics/stop-the-war-coalition,Stop the War coalition,Politics
+ordeal,war,technology/smartphone-patent-wars,Smartphone patent wars,Technology
+ordeal,war,uk/antiwar,Anti-war movement,UK news
+ordeal,war,world/firstworldwar,First world war,World news
+ordeal,war,us-news/american-civil-war,American civil war,US news
+ordeal,war,uk-news/english-civil-war,English civil war,UK news
+ordeal,war,world/secondworldwar,Second world war,World news
+ordeal,war,film/war-for-the-planet-of-the-apes,War for the Planet of the Apes,Film
+ordeal,war,film/the-huntsman--winter-s-war,The Huntsman: Winter's War,Film
+ordeal,war,world/us-israel-war-on-iran,US-Israel war on Iran,World news
+ordeal,war,film/star-wars-return-of-the-jedi,Star Wars: Return of the Jedi,Film
+ordeal,war,film/star-wars-episode-vii,Star Wars: The Force Awakens,Film
+ordeal,war,film/star-wars-episode-ii-attack-of-the-clones,Star Wars: Attack of the Clones,Film
+ordeal,war,film/star-wars--the-mandalorian-and-grogu,Star Wars: The Mandalorian and Grogu,Film
+ordeal,war,film/star-wars-the-rise-of-skywalker,Star Wars: The Rise of Skywalker,Film
+ordeal,war,film/solo--a-star-wars-story,Solo: A Star Wars Story,Film
+ordeal,war,film/star-wars--episode-viii,Star Wars: The Last Jedi,Film
+ordeal,war,film/rogue-one-a-star-wars-story,Rogue One: A Star Wars Story,Film
+ordeal,assault,society/rape,Rape and sexual assault,Society
+ordeal,assault,uk/g20-police-assault-ian-tomlinson,Ian Tomlinson,UK news
+ordeal,assault,us-news/stanford-sexual-assault-case,Stanford sexual assault case,US news
+ordeal,slaughter,world/anne-marie-slaughter,Anne-Marie Slaughter,World news
+ordeal,killing,music/the-kills,The Kills,Music
+ordeal,killing,tv-and-radio/the-killing,The Killing,Television & radio
+ordeal,killing,music/killing-joke,Killing Joke,Music
+ordeal,killing,film/killing-oswald,Killing Oswald,Film
+ordeal,killing,film/machete-kills,Machete Kills,Film
+ordeal,killing,film/good-kill,Good Kill,Film
+ordeal,killing,tv-and-radio/the-killing-us,The Killing US,Television & radio
+ordeal,killing,world/haditha-killings,Haditha killings,World news
+ordeal,killing,film/the-act-of-killing,The Act of Killing,Film
+ordeal,killing,film/kill-list,Kill List,Film
+ordeal,killing,film/branded-to-kill,Branded to Kill,Film
+ordeal,killing,tv-and-radio/generation-kill,Generation Kill,Television & radio
+ordeal,killing,film/righteous-kill,Righteous Kill,Film
+ordeal,killing,tv-and-radio/killing-eve,Killing Eve,Television & radio
+ordeal,killing,film/kill-your-darlings,Kill Your Darlings,Film
+ordeal,killing,film/3-days-to-kill,3 Days to Kill,Film
+ordeal,killing,film/the-killings-of-tony-blair,The Killings of Tony Blair,Film
+ordeal,killing,us-news/gilgo-beach-serial-killings,Gilgo Beach serial killings,US news
+ordeal,killing,film/sin-city-2,Sin City: A Dame to Kill For,Film
+ordeal,killing,film/kill-bill-volume-1,Kill Bill: Volume 1,Film
+ordeal,killing,film/kill-bill-volume-2,Kill Bill: Volume 2,Film
+ordeal,killing,film/the-man-who-killed-don-quixote,The Man Who Killed Don Quixote,Film
+ordeal,bombing,uk/claudy-bombing,Claudy bombing,UK news
+ordeal,bombing,world/cluster-bombs,Cluster bombs,World news
+ordeal,bombing,us-news/boston-marathon-bombing,Boston Marathon bombing,US news
+ordeal,bombing,us-news/austin-bombings,Austin bombings,US news
+ordeal,bombing,uk/omagh,Omagh bombing,UK news
+ordeal,bombing,uk-news/london-nail-bombs,London nail bombs,UK news
+ordeal,bombing,uk-news/birmingham-pub-bombings,Birmingham pub bombings,UK news
+ordeal,bombing,us-news/times-square-bomb,Times Square bomb,US news
+ordeal,bombing,us-news/new-york-subway-bombing,New York subway bombing,US news
+ordeal,bombing,world/madridtrainbombs,Madrid train bombs,World news
+ordeal,bombing,uk/lockerbie,Lockerbie plane bombing,UK news
+ordeal,bombing,world/moscow-airport-bomb,Moscow airport bomb,World news
+ordeal,bombing,film/louder-than-bombs,Louder than Bombs,Film
+ordeal,bombing,world/cargo-plane-bomb-plot,Cargo plane bomb plot,World news
+ordeal,bombing,us-news/us-pipe-bomb-packages,US pipe bomb packages,US news
+ordeal,bombing,us-news/new-york-and-new-jersey-bombings,New York and New Jersey bombings,US news
+ordeal,stabbing,australia-news/sydney-stabbing-attack,Sydney stabbing attack,Australia news
+ordeal,stabbing,australia-news/bondi-junction-stabbings,Bondi Junction stabbings,Australia news
+natural,earthquake,world/earthquakes,Earthquakes,World news
+natural,earthquake,world/china-earthquake,China earthquake,World news
+natural,earthquake,world/central-italy-earthquake,Italy earthquake,World news
+natural,earthquake,world/morocco-earthquake-2023,Morocco earthquake 2023,World news
+natural,earthquake,world/nepal-earthquake-2015,Nepal earthquake 2015,World news
+natural,earthquake,world/new-zealand-earthquake,New Zealand earthquake 2016,World news
+natural,earthquake,world/turkeyquakes,Turkey earthquakes 1999,World news
+natural,earthquake,sport/san-jose-earthquakes,San Jose Earthquakes,Sport
+natural,earthquake,world/turkey-syria-earthquake-2023,Turkey-Syria earthquake 2023,World news
+natural,earthquake,world/japan-earthquake-and-tsunami,Japan disaster,World news
+natural,earthquake,global-development/nepal-earthquake-one-year-on,Nepal earthquake: one year on,Global development
+natural,epidemic,world/epidemics,Epidemics,World news
+natural,plague,society/bubonic-plague,Bubonic plague,Society
+natural,plague,film/how-to-survive-a-plague,How To Survive A Plague,Film
+natural,storm,film/into-the-storm,Into the Storm,Film
+natural,storm,uk-news/storm-desmond,Storm Desmond,UK news
+natural,storm,artanddesign/storm-thorgerson,Storm Thorgerson,Art and design
+natural,storm,sport/melbourne-storm,Melbourne Storm,Sport
+natural,storm,uk-news/storm-frank,Storm Frank,UK news
+natural,storm,us-news/tropical-storm-hilary,Tropical Storm Hilary,US news
+natural,hurricane,world/hurricanes,Hurricanes,World news
+natural,hurricane,world/hurricane-otto,Hurricane Otto,World news
+natural,hurricane,us-news/hurricane-katrina,Hurricane Katrina,US news
+natural,hurricane,us-news/hurricane-irene,Hurricane Irene,US news
+natural,hurricane,us-news/hurricane-helene,Hurricane Helene,US news
+natural,hurricane,us-news/hurricane-idalia,Hurricane Idalia,US news
+natural,hurricane,world/hurricane-jose,Hurricane Jose,World news
+natural,hurricane,world/hurricane-dorian,Hurricane Dorian,World news
+natural,hurricane,world/hurricane-florence,Hurricane Florence,World news
+natural,hurricane,world/hurricane-fiona,Hurricane Fiona,World news
+natural,hurricane,world/hurricane-maria,Hurricane Maria,World news
+natural,hurricane,world/hurricane-matthew,Hurricane Matthew,World news
+natural,hurricane,world/hurricane-melissa,Hurricane Melissa,World news
+natural,hurricane,world/hurricane-irma,Hurricane Irma,World news
+natural,hurricane,world/hurricane-isaias,Hurricane Isaias,World news
+natural,hurricane,us-news/hurricane-sandy,Hurricane Sandy,US news
+natural,hurricane,us-news/hurricane-laura,Hurricane Laura,US news
+natural,hurricane,us-news/hurricane-harvey,Hurricane Harvey,US news
+natural,hurricane,us-news/hurricanegustav,Hurricane Gustav,US news
+natural,hurricane,sport/carolina-hurricanes,Carolina Hurricanes,Sport
+natural,hurricane,us-news/hurricane-ian,Hurricane Ian,US news
+natural,hurricane,us-news/hurricane-milton,Hurricane Milton,US news
+natural,hurricane,us-news/hurricane-michael,Hurricane Michael,US news
+natural,hurricane,us-news/hurricane-isaac,Hurricane Isaac,US news
+natural,flood,environment/flooding,Flooding,Environment
+natural,flood,world/pakistan-flood,Pakistan floods,World news
+natural,flood,world/libya-flood-2023,Libya floods 2023,World news
+natural,flood,floodalert/floodalert,Flood alert,Flood alert
+natural,flood,world/nepal-tibet-flood-disaster,Nepal-Tibet flood disaster,World news
+natural,flood,uk-news/uk-floods-2014,UK floods 2014,UK news
+natural,flood,us-news/texas-floods-2025,Texas floods 2025,US news
+natural,flood,australia-news/australia-east-coast-floods-2022,NSW and Queensland floods 2022,Australia news
+natural,flood,australia-news/north-queensland-floods-2023,North Queensland floods 2023,Australia news
+natural,flood,australia-news/australia-east-coast-floods-2021,Australia east coast floods 2021,Australia news
+natural,wildfire,world/wildfires,Wildfires,World news
+natural,wildfire,us-news/us-wildfires,US wildfires,US news
+natural,wildfire,world/canada-wildfires,Canada wildfires,World news
+natural,wildfire,us-news/california-wildfires,California wildfires,US news
+natural,wildfire,us-news/colorado-wildfires,Colorado wildfires 2012,US news
+natural,tsunami,world/tsunamis,Tsunamis,World news
+natural,tsunami,world/indonesia-tsunami,Indonesia tsunami September 2018,World news
+natural,tsunami,world/indonesia-tsunami-december-2018,Indonesia tsunami December 2018,World news
+natural,tsunami,world/tsunami2004,Indian Ocean tsunami 2004,World news
+natural,avalanche,world/avalanches,Avalanches,World news
+natural,avalanche,music/the-avalanches,The Avalanches,Music
+natural,avalanche,sport/colorado-avalanche,Colorado Avalanche,Sport
+natural,avalanche,film/prince-avalanche,Prince Avalanche,Film
+control,orchestra,music/philharmonia-orchestra,The Philharmonia Orchestra,Music
+control,orchestra,music/concertgebouw-orchestra,Concertgebouw Orchestra,Music
+control,orchestra,music/halle-orchestra,Hallé Orchestra,Music
+control,orchestra,music/chineke--orchestra,Chineke! Orchestra,Music
+control,orchestra,music/aurora-orchestra,Aurora Orchestra,Music
+control,orchestra,music/london-symphony-orchestra,London Symphony Orchestra,Music
+control,orchestra,music/bournemouth-symphony-orchestra,Bournemouth Symphony Orchestra,Music
+control,orchestra,music/scottish-chamber-orchestra,Scottish Chamber Orchestra,Music
+control,orchestra,music/unknown-mortal-orchestra,Unknown Mortal Orchestra,Music
+control,orchestra,music/london-philharmonic-orchestra,London Philharmonic Orchestra,Music
+control,orchestra,music/melbourne-symphony-orchestra,Melbourne Symphony Orchestra,Music
+control,orchestra,music/liverpool-philharmonic-orchestra,Royal Liverpool Philharmonic Orchestra,Music
+control,orchestra,music/bbc-symphony-orchestra,BBC Symphony Orchestra,Music
+control,orchestra,music/royal-philharmonic-orchestra,Royal Philharmonic Orchestra,Music
+control,orchestra,music/australian-chamber-orchestra,Australian Chamber Orchestra,Music
+control,orchestra,music/multi-story-orchestra,Multi-Story Orchestra,Music
+control,orchestra,music/bbc-philharmonic-orchestra,BBC Philharmonic Orchestra,Music
+control,orchestra,music/orchestra-of-the-age-of-enlightenment,Orchestra of the Age of Enlightenment,Music
+control,orchestra,extra/royal-liverpool-philharmonic-orchestra,Royal Liverpool Philharmonic Orchestra,Extra
+control,orchestra,music/bbc-scottish-symphony-orchestra,BBC Scottish Symphony Orchestra,Music
+control,orchestra,music/scottish-national-jazz-orchestra,Scottish National Jazz Orchestra,Music
+control,orchestra,music/city-of-birmingham-symphony-orchestra,City of Birmingham Symphony Orchestra,Music
+control,orchestra,music/bbc-national-orchestra-of-wales,BBC National Orchestra of Wales,Music
+control,orchestra,discover-culture/global-orchestra-earth-hour,Global orchestra Earth Hour,Discover Culture
+control,football,katine/football,Football,Katine
+control,football,football/football,Football,Football
+control,football,sport/college-football,College football,Sport
+control,football,football/football-index,Football Index,Football
+control,football,football/laws-of-football,Laws of football,Football
+control,football,football/football-agents,Football agents,Football
+control,football,football/footballinireland,Football in Ireland,Football
+control,football,football/womensfootball,Women's football,Football
+control,football,sport/fantasy-football,Fantasy Football,Sport
+control,football,football/football-league,Football League,Football
+control,football,fantasyfootball,Fantasy Football,Football
+control,football,football/footballfanzines,Football fanzines,Football
+control,football,football/footballviolence,Football violence,Football
+control,football,sport/flag-football,Flag football,Sport
+control,football,football/football-tactics,Football tactics,Football
+control,football,football/footballpolitics,Football politics,Football
+control,football,sport/football-federation-australia,Football Australia,Sport
+control,football,football/football-finances,Finances,Football
+control,football,football/sion-football,Sion,Football
+control,football,football/botswana-football,Botswana football team,Football
+control,football,football/ghana,Ghana football team,Football
+control,football,football/madagascar-football-team,Madagascar football team,Football
+control,football,football/football-ticket-prices,Football ticket prices,Football
+control,football,football/haiti-football-team,Haiti football team,Football
+control,football,football/europeanfootball,European club football,Football
+control,football,football/cameroon,Cameroon football team,Football
+control,football,football/uganda-football-team,Uganda football team,Football
+control,football,football/egypt,Egypt football team,Football
+control,football,football/kenya,Kenya football team,Football
+control,football,football/guinea-football-team,Guinea football team,Football
+control,football,football/morocco,Morocco football team,Football
+control,football,football/tunisia,Tunisia football team,Football
+control,football,sport/olympics-2012-football,Olympics 2012: football,Sport
+control,football,football/senegal,Senegal football team,Football
+control,football,football/namibia-football-team,Namibia football team,Football
+control,football,football/tanzania-football-team,Tanzania football team,Football
+control,football,sport/olympicsfootball,Olympics 2008: Football,Sport
+control,football,football/algeria,Algeria football team,Football
+control,football,sport/australian-rules-football,Australian rules football,Sport
+control,football,football/guardian-footballer-of-the-year,Guardian Footballer of the Year,Football
+control,football,football/angola,Angola football team,Football
+control,football,football/zimbabwe,Zimbabwe football team,Football
+control,football,football/syria-football-team,Syria football team,Football
+control,football,sport/paralympics-2012-football,Paralympics 2012: football,Sport
+control,football,football/burundi-football-team,Burundi football team,Football
+control,football,football/gambia-football-team,Gambia football team,Football
+control,football,football/mauritania-football-team,Mauritania football team,Football
+control,football,sport/rugby-football-union,Rugby Football Union,Sport
+control,football,football/mali,Mali football team,Football
+control,football,football/nigeria-football-team,Nigeria football team,Football
+control,tennis,sport/tennis,Tennis,Sport
+control,tennis,sport/table-tennis,Table tennis,Sport
+control,tennis,sport/olympics-2012-tennis,Olympics 2012: tennis,Sport
+control,tennis,travel/tennisholidays,Tennis holidays,Travel
+control,tennis,sport/us-open-tennis-2017,US Open Tennis 2017,Sport
+control,tennis,sport/us-open-tennis-2022,US Open Tennis 2022,Sport
+control,tennis,sport/us-open-tennis-2011,US Open 2011,Sport
+control,tennis,sport/paralympics-2012-tennis,Paralympics 2012: tennis,Sport
+control,tennis,sport/olympicstennis,Olympics 2008: Tennis,Sport
+control,tennis,sport/usopentennis,US Open tennis,Sport
+control,tennis,sport/us-open-tennis-2015,US Open 2015,Sport
+control,tennis,sport/us-open-tennis-2012,US Open Tennis 2012,Sport
+control,tennis,sport/us-open-tennis-2020,US Open Tennis 2020,Sport
+control,tennis,sport/us-open-tennis-2025,US Open Tennis 2025,Sport
+control,tennis,sport/us-open-tennis-2014,US Open Tennis 2014,Sport
+control,tennis,sport/us-open-tennis-2021,US Open Tennis 2021,Sport
+control,tennis,sport/paralympics-2012-table-tennis,Paralympics 2012: table tennis,Sport
+control,tennis,sport/us-open-tennis-2010,US Open Tennis 2010,Sport
+control,tennis,sport/olympics-2012-table-tennis,Olympics 2012: table tennis,Sport
+control,tennis,sport/us-open-tennis-2019,US Open Tennis 2019,Sport
+control,tennis,sport/us-open-tennis-2009,US Open Tennis 2009,Sport
+control,tennis,sport/us-open-tennis-2016,US Open Tennis 2016,Sport
+control,tennis,sport/us-open-tennis-2023,US Open Tennis 2023,Sport
+control,tennis,sport/us-open-tennis-2024,US Open Tennis 2024,Sport
+control,tennis,sport/us-open-tennis-2013,US Open tennis 2013,Sport
+control,tennis,sport/us-open-tennis-2018,US Open Tennis 2018,Sport
+control,tennis,sport/us-open-tennis-2026,US Open Tennis 2026,Sport
+control,tennis,sport/olympicstabletennis,Olympics 2008: Table tennis,Sport
+control,tennis,sport/usopentennis2004,US Open Tennis 2004,Sport
+control,tennis,sport/usopentennis2006,US Open Tennis 2006,Sport
+control,tennis,sport/usopentennis2005,US Open Tennis 2005,Sport
+control,tennis,sport/usopentennis2001,US Open Tennis 2001,Sport
+control,tennis,sport/usopentennis2003,US Open Tennis 2003,Sport
+control,tennis,sport/usopentennis2007,US Open Tennis 2007,Sport
+control,tennis,sport/usopentennis2002,US Open Tennis 2002,Sport
+control,economy,politics/economy,Economic policy,Politics
+control,economy,business/australia-economy,Australian economy,Business
+control,economy,business/chinese-economy,Chinese economy,Business
+control,economy,environment/green-economy,Green economy,Environment
+control,economy,business/global-economy,Global economy,Business
+control,economy,technology/sharing-economy,Sharing economy,Technology
+control,economy,business/the-gig-economy,Gig economy,Business
+control,economy,business/useconomy,US economy,Business
+control,economy,technology/digital-economy-act,Digital Economy Act,Technology
+control,inflation,business/inflation,Inflation,Business
+control,fashion,fashion/fashion,Fashion,Fashion
+control,fashion,fashion/vintage-fashion,Vintage fashion,Fashion
+control,fashion,fashion/australia-fashion,Australian fashion,Fashion
+control,fashion,fashion/fashion-photography,Fashion photography,Fashion
+control,fashion,fashion/fashion-awards,Fashion Awards,Fashion
+control,fashion,fashion/festival-fashion,Festival fashion,Fashion
+control,fashion,fashion/fashion-industry,Fashion industry,Fashion
+control,fashion,fashion/fashion-weeks,Fashion weeks,Fashion
+control,fashion,fashion/mens-fashion,Men's fashion,Fashion
+control,fashion,fashion/sustainable-fashion,Sustainable fashion,Fashion
+control,fashion,lifeandstyle/fashion,Fashion,Life and style
+control,fashion,sustainable-business/fashion,Fashion,Guardian Sustainable Business
+control,fashion,fashion/london-fashion-week,London fashion week,Fashion
+control,fashion,fashion/australia-fashion-week,Australian fashion week,Fashion
+control,fashion,fashion/milan-fashion-week,Milan fashion week,Fashion
+control,fashion,fashion/paris-fashion-week,Paris fashion week,Fashion
+control,fashion,fashion/british-fashion-council,British Fashion Council,Fashion
+control,fashion,fashion/new-york-fashion-week,New York fashion week,Fashion
+control,fashion,fashion/dior,Dior,Fashion
+control,fashion,fashion/lanvin,Lanvin,Fashion
+control,fashion,fashion/burberry,Burberry,Fashion
+control,fashion,fashion/uniqlo,Uniqlo,Fashion
+control,fashion,fashion/missoni,Missoni,Fashion
+control,fashion,fashion/hermes,Hermès,Fashion
+control,fashion,fashion/skirts,Skirts,Fashion
+control,fashion,fashion/normcore,Normcore,Fashion
+control,fashion,fashion/marni,Marni,Fashion
+control,fashion,fashion/movember,Movember,Fashion
+control,fashion,fashion/armani,Armani ,Fashion
+control,fashion,fashion/vetements,Vetements,Fashion
+control,fashion,fashion/moschino,Moschino,Fashion
+control,fashion,fashion/underwear,Underwear,Fashion
+control,fashion,fashion/accessories,Accessories,Fashion
+control,fashion,fashion/balenciaga,Balenciaga,Fashion
+control,fashion,fashion/tights,Tights and socks,Fashion
+control,fashion,fashion/skincare,Skincare,Fashion
+control,fashion,fashion/zara,Zara,Fashion
+control,fashion,fashion/iman,Iman,Fashion
+control,fashion,fashion/blouses,Blouses,Fashion
+control,fashion,fashion/ugg,Ugg,Fashion
+control,fashion,fashion/lipstick,Lipstick,Fashion
+control,fashion,fashion/celine,Celine,Fashion
+control,fashion,fashion/topshop,Topshop,Fashion
+control,fashion,fashion/handbags,Handbags,Fashion
+control,fashion,fashion/versace,Versace,Fashion
+control,fashion,fashion/gucci,Gucci,Fashion
+control,fashion,fashion/chanel,Chanel,Fashion
+control,fashion,fashion/fragrance,Fragrance,Fashion
+control,fashion,fashion/mulberry,Mulberry,Fashion
+control,fashion,fashion/givenchy,Givenchy,Fashion
+control,clothing,fashion/childrens-clothes,Children's clothes,Fashion
+control,recipe,cookingforkids/recipe-videos,Recipe videos,Cooking for kids
+control,recipe,food/student-recipes,Student recipes,Food
+control,recipe,cookingforkids/recipedownloads,Recipe downloads,Cooking for kids
+control,recipe,food/one-pot-recipes,One-pot recipes,Food
+control,recipe,great-british-picnics/picnic-perfect-recipes,Picnic perfect recipes,Great British picnics
+control,recipe,lifeandstyle/mary-ellen-mctague-recipes,Mary-Ellen McTague recipes,Life and style
+control,restaurant,travel/restaurants,Restaurants,Travel
+control,restaurant,food/restaurants,Restaurants,Food
+control,restaurant,business/restaurantgroup,Restaurant Group,Business
